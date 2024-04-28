@@ -31,6 +31,6 @@ int main() {
         if (x >= 1)   { cout << "I"; x = x - 1;   }
     }
     cout << endl;
-    cin.ignore();
+    cin.ignore(); //¿a qué se refiere con esta función?
     return 0;
 }
