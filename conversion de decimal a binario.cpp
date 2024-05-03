@@ -4,7 +4,7 @@
 using namespace std;
  
 int main() {
-    int D, d1, D2, D3, D4, D5, D6, D7, d8, R1, r2, R3, R4, r5, R6, R7, R8;//correccion en la declaracion de variables. 
+    int D, d1, D2, D3, D4, D5, D6, D7, d8, R1, r2, R3, R4, r5, R6, R7, R8;//correccion en la declaracion de variables minusculas cambiar a mayusculas . 
      
     cout << "Ingrese un numero decimal" << endl;
     cin >> D;
